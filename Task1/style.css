@@ -1,0 +1,31 @@
+html{
+    background-color: rgb(43, 43, 43);
+}
+
+h1{
+    color:aliceblue;
+    text-align: center;
+}
+
+p{
+    color:aliceblue;
+    text-align: center;
+    margin-left: 16%;
+    margin-right: 16%
+}
+
+b{
+    color:aliceblue;
+    text-align: center;
+    /*margin-left: 30%;*/
+}
+
+img{
+    width: 30%;
+    margin: 0 auto;
+    display: block;
+}
+a{
+   margin-left: 5%;
+   margin-right: 5%; 
+}
